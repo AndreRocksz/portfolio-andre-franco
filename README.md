@@ -4,7 +4,7 @@ Portfólio de conclusão da etapa de Front-End da formação Full Stack da EBAC 
 
 ![Abertura do portfólio em desktop com apresentação, retrato e acesso aos projetos](docs/imagens/abertura-desktop.png)
 
-**Versão online:** publicação pendente. O [endereço previsto no GitHub Pages](https://andrerocksz.github.io/portfolio-andre-franco/) depende do primeiro deploy.
+**Versão online:** [Acesse o portfólio no GitHub Pages](https://andrerocksz.github.io/portfolio-andre-franco/).
 
 [Funcionamento](#funcionamento) · [Projetos](#projetos) · [Execução local](#execução-local) · [Decisões técnicas](#decisões-técnicas) · [Tecnologias e versões](#tecnologias-e-versões) · [Testes](#testes-e-validação) · [Publicação](#publicação)
 
