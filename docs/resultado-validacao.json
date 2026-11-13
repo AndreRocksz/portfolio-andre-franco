@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-12",
+  "node": "v24.14.0",
+  "npm": "11.9.0",
+  "chrome": "157.0.8103.52",
+  "commands": {
+    "npm run lint": "Passou",
+    "npm run build": "Passou"
+  },
+  "viewports": [
+    {
+      "width": 1440,
+      "checks": [
+        {
+          "scenario": "Abertura, retrato e favicon",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Atalho de teclado para o conteúdo",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Menu, âncoras e chamadas da abertura",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Quatro casos e destinos dos três repositórios",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Imagens, texto alternativo e ampliação por teclado",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Ampliação por clique e estado independente",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Trajetória, competências e formação em IA",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Caso do WhatsApp e conversa ilustrativa",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Destinos dos links de contato",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Layout responsivo e ausência de erros na página",
+          "status": "Passou"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "checks": [
+        {
+          "scenario": "Abertura, retrato e favicon",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Atalho de teclado para o conteúdo",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Menu, âncoras e chamadas da abertura",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Quatro casos e destinos dos três repositórios",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Imagens, texto alternativo e ampliação por teclado",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Ampliação por clique e estado independente",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Trajetória, competências e formação em IA",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Caso do WhatsApp e conversa ilustrativa",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Destinos dos links de contato",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Layout responsivo e ausência de erros na página",
+          "status": "Passou"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "checks": [
+        {
+          "scenario": "Abertura, retrato e favicon",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Atalho de teclado para o conteúdo",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Menu, âncoras e chamadas da abertura",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Quatro casos e destinos dos três repositórios",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Imagens, texto alternativo e ampliação por teclado",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Ampliação por clique e estado independente",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Trajetória, competências e formação em IA",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Caso do WhatsApp e conversa ilustrativa",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Destinos dos links de contato",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Layout responsivo e ausência de erros na página",
+          "status": "Passou"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "checks": [
+        {
+          "scenario": "Abertura, retrato e favicon",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Atalho de teclado para o conteúdo",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Menu, âncoras e chamadas da abertura",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Quatro casos e destinos dos três repositórios",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Imagens, texto alternativo e ampliação por teclado",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Ampliação por clique e estado independente",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Trajetória, competências e formação em IA",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Caso do WhatsApp e conversa ilustrativa",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Destinos dos links de contato",
+          "status": "Passou"
+        },
+        {
+          "scenario": "Layout responsivo e ausência de erros na página",
+          "status": "Passou"
+        }
+      ]
+    }
+  ]
+}

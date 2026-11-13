@@ -1,0 +1,16 @@
+html {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+}
+
+main:focus {
+  outline: none;
+}
+
+::selection {
+  background: #c7def9;
+  color: #111f32;
+}
